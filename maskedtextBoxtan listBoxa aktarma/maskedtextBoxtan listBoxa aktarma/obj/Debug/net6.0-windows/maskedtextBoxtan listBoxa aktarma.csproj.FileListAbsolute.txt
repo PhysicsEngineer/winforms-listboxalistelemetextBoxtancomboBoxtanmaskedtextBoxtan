@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\bin\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.exe
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\bin\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.deps.json
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\bin\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.runtimeconfig.json
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\bin\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.dll
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\bin\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.pdb
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan_listBoxa_aktarma.Form1.resources
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.AssemblyInfo.cs
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.dll
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\refint\maskedtextBoxtan listBoxa aktarma.dll
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.pdb
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\maskedtextBoxtan listBoxa aktarma.genruntimeconfig.cache
+C:\Users\Asus\source\repos\maskedtextBoxtan listBoxa aktarma\maskedtextBoxtan listBoxa aktarma\obj\Debug\net6.0-windows\ref\maskedtextBoxtan listBoxa aktarma.dll
